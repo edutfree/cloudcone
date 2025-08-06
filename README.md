@@ -23,6 +23,28 @@ Cloudcone是目前最受欢迎低价便宜VPS之一，美国注册公司成立�
 
 2025-08-06：又缺货了，不知道还会不会再补货。
 
+## CloudCone VPS 如何自动续费账单？
+
+ *CloudCone **默认开启**使用账户余额自动支付vps续费账单！*  [官方指引：How to pay my invoices automatically?](https://help.cloudcone.com/en-us/article/how-to-pay-my-invoices-automatically-1rz8lm3/)
+
+ cloudcone 续费规则：
+ 
+> 在余额不足且主机到期的情况下会发邮件通知续费（一般到期前3天会发送邮件通知）
+> 
+> 如果没有及时续费，套餐 **到期4天后** 暂停 vps
+> 
+> 套餐到期 **14天** 后销毁 vps
+
+如果账户有传家宝套餐需要一直保留，建议充值足够余额，并开启使用余额自动续费功能。
+
+可进入用户中心（[https://app.cloudcone.com/user/](https://app.cloudcone.com/user/#billing-container)） Billing 处检查确认是否开启余额自动续费：
+
+[![cloudcone自动续费](cloudcone_20250806_091153.png)](https://app.cloudcone.com.cn/?ref=465)
+
+Auto Charge 设置为 on 即可，Pay on Add Funds 也可以设置为 on，这样充值后会自动支付已到期需要续费的账单。
+
+*另外，如果不需要自动续费，可将上面两个选项设置为 off。*
+
 ---
 
 温馨提示：CloudCone促销活动一般卖完就没货，因此大多数历史优惠信息仅剩下 **参考比价** 价值。
