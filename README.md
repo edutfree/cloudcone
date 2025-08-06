@@ -14,7 +14,7 @@ Cloudcone是目前最受欢迎低价便宜VPS之一，美国注册公司成立�
 
 美国西海岸洛杉矶 MultaCom 机房，千兆带宽，1 个 IPv4 地址，3 个 IPv6 地址，基于 KVM 虚拟，SSD Cached RAID 10 硬盘存储。
 
-| CPU | 内存  | 硬盘（SSD） | 流量  | 带宽  | 价格  | 购买地址 |
+| CPU | 内存  | 硬盘（SSD缓存） | 流量  | 带宽  | 价格  | 购买地址 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1核  | 1G  | 60G | 3T  | 1Gbps | $10.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/405/create?ref=465&token=flash-q3-25-vps-1) |
 | 2核  | 2G  | 120G | 3T  | 1Gbps | $14.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/406/create?ref=465&token=flash-q3-25-vps-2) |
