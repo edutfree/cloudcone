@@ -10,7 +10,7 @@ Cloudcone是目前最受欢迎低价便宜VPS之一，美国注册公司成立�
 
 国内官方备用：[https://www.cloudcone.com.cn](https://app.cloudcone.com.cn/?ref=465)
 
-## CloudCone 8周年闪购活动
+## CloudCone 2025年7月闪购活动
 
 美国西海岸洛杉矶 MultaCom 机房，千兆带宽，1 个 IPv4 地址，3 个 IPv6 地址，基于 KVM 虚拟，SSD Cached RAID 10 硬盘存储。
 
