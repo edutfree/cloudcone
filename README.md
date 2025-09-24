@@ -8,8 +8,6 @@ VPS 基于 KVM 虚拟，MultaCom 机房采用动态路由网络，会根据不�
 
 官方网站：[https://www.cloudcone.com](https://app.cloudcone.com.cn/?ref=465)
 
-[![cloudcone官网](cloudcone_20250805_231153.png)](https://app.cloudcone.com.cn/?ref=465)
-
 国内官方备用：[https://www.cloudcone.com.cn](https://app.cloudcone.com.cn/?ref=465)
 
 ## CloudCone 2025年9月新机房
