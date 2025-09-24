@@ -1,6 +1,8 @@
 # cloudcone优惠码最新vps促销套餐整理
 
-Cloudcone是目前最受欢迎低价便宜VPS之一，美国注册公司成立于2017年，主营美国洛杉矶 MultaCom 机房云服务器 / VPS、独立服务器等业务。VPS 基于 KVM 虚拟，MultaCom 机房采用动态路由网络，会根据不同网络状态调整线路，不少地区电信网络会走 CN2 线路，延迟和稳定性在非高峰时段都较为优秀。
+Cloudcone是目前最受欢迎低价便宜VPS之一，美国注册公司成立于2017年，主营美国洛杉矶 MultaCom 机房云服务器 / VPS、独立服务器等业务。
+
+VPS 基于 KVM 虚拟，MultaCom 机房采用动态路由网络，会根据不同网络状态调整线路，不少地区电信网络会走 CN2 线路，延迟和稳定性在非高峰时段都较为优秀。
 
 便宜VPS **年付** 低至10美元，支持支付宝和PayPal付款。同时该主机商提供按秒计费SC2服务器、随删随用、定期备份服务。
 
@@ -9,6 +11,23 @@ Cloudcone是目前最受欢迎低价便宜VPS之一，美国注册公司成立�
 [![cloudcone官网](cloudcone_20250805_231153.png)](https://app.cloudcone.com.cn/?ref=465)
 
 国内官方备用：[https://www.cloudcone.com.cn](https://app.cloudcone.com.cn/?ref=465)
+
+## CloudCone 2025年9月新机房
+
+CloudCone 刚上线一个新的数据中心：St. Louis, Missouri, USA，[St. Louis, MO](https://news.cloudcone.com/cloudcone-expands-with-a-new-location-hello-st.-louis-1dsPyE)
+
+美国 St. Louis, US 机房，千兆带宽，1 个 IPv4 地址，3 个 IPv6 地址，基于 KVM 虚拟，SSD RAID 10 硬盘存储。
+
+| CPU | 内存  | SSD硬盘 | 流量  | 带宽  | 价格  | 购买地址 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1核  | 1G  | 14G | 1T  | 1Gbps | $12.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/415/create?ref=465&token=ssd-vps-stl-launch-1) |
+| 2核  | 2G  | 26G | 2T  | 1Gbps | $19.59/年 | [点击购买](https://app.cloudcone.com.cn/vps/416/create?ref=465&token=ssd-vps-stl-launch-2) |
+| 3核  | 3G  | 41G | 3T  | 1Gbps | $21.59/年 | [点击购买](https://app.cloudcone.com.cn/vps/417/create?ref=465&token=ssd-vps-stl-launch-3) |
+| **4核(推荐)**  | 4G  | 55G | 4T  | 1Gbps | $23.59/年 | [点击购买](https://app.cloudcone.com.cn/vps/418/create?ref=465&token=ssd-vps-stl-launch-4) |
+| 8核  | 8G  | 111G | 5T  | 1Gbps | $57.59/年 | [点击购买](https://app.cloudcone.com.cn/vps/419/create?ref=465&token=ssd-vps-stl-launch-5) |
+| 10核  | 16G  | 223G | 6T  | 1Gbps | $125.69/年 | [点击购买](https://app.cloudcone.com.cn/vps/420/create?ref=465&token=ssd-vps-stl-launch-6) |
+
+测速：https://lg-stl.us.cloudc.one
 
 ## CloudCone 2025年7月闪购活动
 
