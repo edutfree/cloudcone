@@ -10,6 +10,17 @@ VPS 基于 KVM 虚拟，MultaCom 机房采用动态路由网络，会根据不�
 
 国内官方备用：[https://www.cloudcone.com.cn](https://app.cloudcone.com.cn/?ref=465)
 
+## CloudCone 2025年10月sc2 vps套餐促销
+
+CloudCone sc2 vps套餐相比普通套餐，多了每日自动备份、快照功能，性能更好，目前促销硬盘翻倍……
+
+| CPU | 内存  | SSD硬盘 | 流量  | 带宽  | 价格  | 购买地址 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 3核  | 4G  | 120G | 4T  | 1Gbps | $48.93/年 | [点击购买](https://app.cloudcone.com.cn/compute/1474/create?ref=465&token=cs-q4-25-sc2-1) |
+| 6核  | 8G  | 240G | 6T  | 1Gbps | $87.67/年 | [点击购买](https://app.cloudcone.com.cn/compute/1475/create?ref=465&token=cs-q4-25-sc2-2) |
+| 12核 | 16G | 480G | 8T  | 1Gbps | $172.67/年 | [点击购买](https://app.cloudcone.com.cn/compute/1476/create?ref=465&token=cs-q4-25-sc2-3) |
+| **16核** | 32G | 960G | 10T | 1Gbps | $349.8/年 | [点击购买](https://app.cloudcone.com.cn/compute/1477/create?ref=465&token=cs-q4-25-sc2-4) |
+
 ## CloudCone 2025年9月新机房
 
 CloudCone 刚上线一个新的数据中心：St. Louis, Missouri, USA，[St. Louis, MO](https://news.cloudcone.com/cloudcone-expands-with-a-new-location-hello-st.-louis-1dsPyE)
